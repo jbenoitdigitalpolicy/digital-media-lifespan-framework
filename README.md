@@ -96,3 +96,9 @@ Failure to fulfill a declared MOL without delivering an offline patch or hosting
 * **Loss of Safe Harbor:** Immediate revocation of legal immunity, exposing the publisher to private right-of-action litigation and regulatory fines proportional to net title revenue.
 
 [Comprehensive Legislative Framework for Digital Media Transparency, Consumer Protection, and Product Lifespan Governance.pdf](https://github.com/user-attachments/files/30878716/Comprehensive.Legislative.Framework.for.Digital.Media.Transparency.Consumer.Protection.and.Product.Lifespan.Governance.pdf)
+
+## Contact & Inquiries
+For media inquiries, legislative feedback, or collaboration regarding this policy framework:
+- **Author:** Jason Benoit
+- **Role:** Consumer Rights Advocate & Digital Media Analyst
+- **Email:** jbenoit.digitalpolicy@gmail.com
