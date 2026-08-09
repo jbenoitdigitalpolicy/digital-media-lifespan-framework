@@ -37,6 +37,12 @@ Publishers releasing online-dependent software must declare an active MOL prior 
 ### 3. Extension Deadlines
 Publishers may extend an MOL at any time prior to the halfway mark of the active declared cycle (e.g., prior to 2.5 years into a 5-year commitment).
 
+### 4. Annual Inflation Adjustment (CPI Indexing)
+To preserve statutory intent and purchasing power over time:
+* **Benchmark Index:** The baseline $30.00 USD retail price cap established for short Minimum Operational Lifespans (MOL) shall be adjusted annually on January 1st based on the Consumer Price Index for All Urban Consumers (CPI-U), as published by the U.S. Bureau of Labor Statistics.
+* **Rounding Rule:** Adjusted price caps shall be rounded to the nearest $0.50 increment to maintain clear consumer-facing price tiers.
+* **International Equivalent:** For non-USD jurisdictions, statutory price caps shall be calculated using equivalent national consumer price indices (e.g., Harmonised Index of Consumer Prices / HICP for the European Union) adjusted annually by the relevant administrative authority.
+
 ---
 
 ## SECTION III. MANDATORY SUNSET REQUIREMENTS & SAFE HARBOR TRADEOFF
@@ -95,10 +101,11 @@ Failure to fulfill a declared MOL without delivering an offline patch or hosting
 
 * **Loss of Safe Harbor:** Immediate revocation of legal immunity, exposing the publisher to private right-of-action litigation and regulatory fines proportional to net title revenue.
 
-[Comprehensive Legislative Framework for Digital Media Transparency, Consumer Protection, and Product Lifespan Governance.pdf](https://github.com/user-attachments/files/30878716/Comprehensive.Legislative.Framework.for.Digital.Media.Transparency.Consumer.Protection.and.Product.Lifespan.Governance.pdf)
+---
 
-## Contact & Inquiries
-For media inquiries, legislative feedback, or collaboration regarding this policy framework:
-- **Author:** Jason Benoit
-- **Role:** Consumer Rights Advocate & Digital Media Analyst
-- **Email:** jbenoit.digitalpolicy@gmail.com
+## Contact & Policy Inquiries
+
+For media inquiries, legislative feedback, or research collaboration regarding this framework:
+* **Author:** Jason Benoit
+* **Role:** Consumer Rights Advocate & Digital Media Analyst
+* **Email:** jbenoit.digitalpolicy@gmail.com
