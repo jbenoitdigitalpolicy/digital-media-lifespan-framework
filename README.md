@@ -1,3 +1,4 @@
+[Digital_Media_Lifespan_Framework_Executive_Summary.pdf](https://github.com/user-attachments/files/30880235/Digital_Media_Lifespan_Framework_Executive_Summary.pdf)
 [Comprehensive Legislative Framework for Digital Media Transparency, Consumer Protection, and Product Lifespan Governance.pdf](https://github.com/user-attachments/files/30880204/Comprehensive.Legislative.Framework.for.Digital.Media.Transparency.Consumer.Protection.and.Product.Lifespan.Governance.pdf)
 # COMPREHENSIVE LEGISLATIVE FRAMEWORK FOR DIGITAL MEDIA TRANSPARENCY, CONSUMER PROTECTION, AND PRODUCT LIFESPAN GOVERNANCE
 
