@@ -1,120 +1,100 @@
-[Digital_Media_Lifespan_Framework_Executive_Summary.pdf](https://github.com/user-attachments/files/31089191/Digital_Media_Lifespan_Framework_Executive_Summary.pdf)
-[Digital_Media_Lifespan_Framework_Full_Whitepaper.pdf](https://github.com/user-attachments/files/31089190/Digital_Media_Lifespan_Framework_Full_Whitepaper.pdf)
-# MODEL LEGISLATIVE FRAMEWORK FOR CONSUMER INTERACTIVE ENTERTAINMENT & VIDEO GAME LIFESPAN GOVERNANCE
+# MODEL LEGISLATIVE & REGULATORY FRAMEWORK FOR CONSUMER INTERACTIVE ENTERTAINMENT & VIDEO GAME LIFESPAN GOVERNANCE
 
-**Author:** Jason Benoit  
+**Author & Petitioner:** Jason Benoit  
 **Role:** Consumer Rights Advocate & Digital Media Analyst  
-**Contact:** jbenoit.digitalpolicy@gmail.com  
-**Repository:** https://github.com/jbenoitdigitalpolicy/digital-media-lifespan-framework  
-**Target Entities:** Federal Trade Commission (FTC), European Commission (Directorate-General for Justice and Consumers), State Attorneys General, and Digital Storefront Platform Operators  
+**Official Contact:** jbenoit.digitalpolicy@gmail.com | New York, NY  
+**Open-Source Repository:** https://github.com/jbenoitdigitalpolicy/digital-media-lifespan-framework  
+**Receiving Authorities:** U.S. Federal Trade Commission (16 CFR § 1.31 Docket), European Parliament (IMCO), State AG Consumer Protection Bureaus  
 
 ---
 
 ### Cover Note for Submission
 
-> *"This proposal represents a balanced, market-driven compromise between publisher flexibility and consumer protection. It does not mandate infinite server hosting, nor does it burden small-scale or independent developers. Instead, it establishes baseline storefront transparency for interactive video games, mandates upfront lifespan commitments, and offers publishers statutory legal immunity in exchange for issuing basic end-of-life offline patches or community hosting protocols."*
+> *"This petition establishes a formal, balanced regulatory framework to eliminate deceptive digital storefront sales practices in the video game sector. It establishes mandatory point-of-sale lifespan disclosures, sets reasonable minimum operational commitments, and provides publishers with statutory safe harbor immunity in exchange for functional offline patches or community self-hosting binaries upon server decommissioning."*
 
 ---
 
-## SECTION I. EXECUTIVE SUMMARY, SCOPE & DEFINITIONS
+## SECTION I. PETITIONER'S STANDING & STATUTORY SCOPE (16 CFR § 1.31(b)(1))
 
-### A. Applicability & Scope
+### A. Statement of Standing
+Petitioner **Jason Benoit** is an individual consumer and digital media analyst residing in New York, NY. Petitioner regularly purchases retail licenses for commercial interactive entertainment software via mainstream digital storefronts (PlayStation Store, Xbox Live, Nintendo eShop, Steam, Epic Games Store). Petitioner suffers direct financial injury when software purchased at premium retail price points ($60.00–$70.00+ MSRP) is unilaterally rendered non-functional due to remote server shutdowns without upfront lifespan disclosure or functional offline execution contingencies.
+
+### B. Statutory Scope & Applicability
 This framework applies strictly and exclusively to:
-1. **Consumer Interactive Entertainment:** Commercial video games, interactive software, digital game expansions, and cloud-streamed game licenses offered for retail sale to consumers.
-2. **Platform Storefront Operators:** Digital distribution platforms and storefront holders (e.g., PlayStation Store, Xbox Live, Nintendo eShop, Steam, Epic Games Store).
+1. **Commercial Interactive Entertainment:** Consumer video games, interactive software, downloadable game expansions, and cloud-streamed retail interactive licenses.
+2. **Platform Storefront Operators:** Digital distribution platforms and hardware ecosystem holders (Sony PlayStation, Microsoft Xbox, Nintendo eShop, Valve Steam, Epic Games).
 
-**Exclusions:** This rule explicitly excludes non-entertainment productivity software, enterprise B2B software, custom commercial applications, and pure offline single-player software containing no central server dependencies.
-
-### B. Core Definitions
-1. **Standalone Software:** Interactive entertainment software downloaded locally that functions fully without requiring ongoing remote server authentication.
-2. **Online-Dependent Software:** Games requiring continuous or periodic communication with publisher-hosted servers for core execution, matchmaking, or authentication.
-3. **Minimum Operational Lifespan (MOL):** The guaranteed timeline during which a publisher commits to maintaining online server infrastructure and technical support required to run the game.
+**Express Exclusions:** This rule explicitly excludes non-entertainment productivity software, enterprise B2B software, custom commercial applications, and standalone offline software containing no central server dependencies.
 
 ---
 
-## SECTION II. STOREFRONT TRANSPARENCY & LIFESPAN MANDATES
+## SECTION II. ACTION REQUESTED & AFFECTED COMMISSION RULES (16 CFR § 1.31(b)(2))
 
-### 1. False Ownership Prohibition
-Storefronts are prohibited from using unqualified terms such as **"Buy"**, **"Purchase"**, or **"Own"** for online-dependent interactive titles. Games requiring external authentication must be explicitly labeled at the point of sale as a **"Revocable Digital License"** along with a clear summary of access terms (building upon statutory precedents such as California AB 2426).
-
-### 2. Guaranteed Minimum Operational Lifespan (MOL)
-Publishers releasing online-dependent software must declare an active MOL prior to sale:
-* **Standard Tier (3–10 Years):** Premium titles ($70+ MSRP) must publicly commit to an MOL between **36 and 120 months**.
-* **Short-Term Service License (STSL) (1–2 Years):** Titles with an MOL under 36 months are capped at reduced pricing tiers (maximum $30 MSRP base cap or subscription-catalog inclusion) to prevent disposable premium cash-grabs.
-
-### 3. Annual Inflation Adjustment (CPI Indexing)
-To preserve statutory intent and purchasing power over time:
-* **Benchmark Index:** The baseline $30.00 USD retail price cap established for short Minimum Operational Lifespans (MOL) shall be adjusted annually on January 1st based on the Consumer Price Index for All Urban Consumers (CPI-U), as published by the U.S. Bureau of Labor Statistics.
-* **Rounding Rule:** Adjusted price caps shall be rounded to the nearest $0.50 increment to maintain clear consumer-facing price tiers.
-* **International Equivalent:** For non-USD jurisdictions, statutory price caps shall be calculated using equivalent national consumer price indices (e.g., Harmonised Index of Consumer Prices / HICP for the European Union) adjusted annually by the relevant administrative authority.
+Petitioner requests the promulgation of a Trade Regulation Rule under Section 18(a)(1)(B) of the FTC Act (15 U.S.C. § 57a(1)(B)) codified within 16 CFR Chapter I:
+* **16 CFR Part 238 (Guides Against Bait Advertising):** Affected by establishing that marketing an online-dependent game as a permanent purchase while concealing an undisclosed short-term server termination timeline constitutes deceptive bait advertising.
+* **16 CFR Part 425 (Rule on Recurring Subscriptions & Negative Option Plans):** Complements digital disclosure requirements by preventing publishers from converting upfront retail purchases into unannounced, de facto expiring service subscriptions.
+* **Section 5 of the FTC Act (15 U.S.C. § 45(a)(1)):** Enforces affirmative requirements prohibiting the deceptive omission of material product lifespans at digital points of sale.
 
 ---
 
-## SECTION III. FACTUAL & EVIDENTIARY BASIS (REGULATORY DOCKET RECORD)
+## SECTION III. FACTUAL & EVIDENTIARY RECORD (16 CFR § 1.31(b)(3))
 
-Pursuant to FTC Rule 1.31(b)(3) and state regulatory standards, this framework is anchored in empirical market evidence documenting persistent consumer harm in digital video game distribution:
+Pursuant to 16 CFR § 1.31(b)(3) and administrative rulemaking standards, this regulatory framework is substantiated by empirical market data:
 
-1. **VGHF Preservation Study (2023):** According to the *Video Game History Foundation* and *Software Preservation Network* landmark study (*87% Missing: The Disappearance of Classic Video Games*), 87% of historical video games released in the U.S. are out of print and commercially inaccessible, caused directly by server terminations and storefront closures.
-2. **Precedent Case Study (*Ubisoft's The Crew*):** The April 2024 server shutdown of *The Crew* affected over 12 million buyers. The publisher uninstalled local game access from user accounts, triggering consumer protection class actions in California state court (*Cassell et al. v. Ubisoft Entertainment SA*) and European tribunals (*UFC-Que Choisir v. Ubisoft*).
-3. **Real-Time Cloud Shutdown (*Aliens: Fireteam Elite* - August 2026):** On August 5, 2026, Cold Iron Studios permanently shut down cloud servers for *Aliens: Fireteam Elite* on Nintendo Switch. Buyers who paid up to $59.99 lost 100% of product access (including single-player functionality) after 39 months, receiving no monetary refunds.
-4. **International Citizen Demand:** The *Stop Destroying Videogames* European Citizens' Initiative (ECI) gathered **1,294,188 verified citizen signatures** across the EU, forcing formal legislative hearings before the European Commission.
-
----
-
-## SECTION IV. MANDATORY SUNSET REQUIREMENTS & SAFE HARBOR TRADEOFF
-
-When an online-dependent title reaches its commercial end-of-life:
-
-### 1. The Offline Functional Patch
-Prior to server decommission, the publisher must issue a final software patch removing mandatory online authentication, rendering core single-player, campaign, or local modes executable offline.
-
-### 2. Community Server Protocols
-For multiplayer-focused titles, the publisher must release basic peer-to-peer networking binaries or unencrypted server hosting software to allow user-hosted servers.
-
-### 3. Statutory Safe Harbor (The Publisher Incentive)
-Publishers that fully comply with MOL declarations and issue functional EOL sunset patches/tools receive **Statutory Safe Harbor Protection**. This shields the publisher from consumer class-action lawsuits, platform penalties, or regulatory fines related to server termination.
+1. **Systemic Commercial Disappearance (VGHF Landmark Study, 2023):** According to empirical research by the *Video Game History Foundation* and the *Software Preservation Network* (*87% Missing: The Disappearance of Classic Video Games*, July 2023), **87% of historical video games released in the United States are currently out of print and inaccessible**. Commercial accessibility for interactive digital software is lower than that of American silent-era films (14%), caused directly by remote server terminations, DRM obsolescence, and digital storefront closures lacking sunset preservation mechanisms.
+2. **Real-Time Cloud Infrastructure Termination (*Aliens: Fireteam Elite*, August 2026):** On August 5, 2026, publisher Cold Iron Studios permanently terminated cloud-streaming server infrastructure for *Aliens: Fireteam Elite* on Nintendo Switch (released April 2023). Because the software operated entirely via remote streaming with no local execution fallback, consumers who paid up to $59.99 for the Ultimate Edition permanently lost 100% of product access (including single-player campaign modes) after just 39 months, receiving zero monetary refunds or alternate execution pathways.
+3. **Active Consumer Protection Litigation (*Ubisoft's The Crew*):** In April 2024, Ubisoft permanently shut down authentication servers for *The Crew* (sold to over 12 million consumers at retail prices up to $60.00–$100.00). Following shutdown, Ubisoft unilaterally revoked digital licenses from user libraries and rendered local files unexecutable. This triggered active consumer protection class actions in California state court (*Cassell et al. v. Ubisoft Entertainment SA*) and regulatory enforcement proceedings in Europe (*UFC-Que Choisir v. Ubisoft*, 2026).
+4. **Documented Citizen Demand (Stop Destroying Videogames ECI):** The European Citizens' Initiative (ECI) entitled *Stop Destroying Videogames* achieved **1,294,188 verified citizen signatures** across EU Member States, formally triggering legislative hearings before the European Commission and European Parliament regarding the unfair practice of unannounced game server shutdowns.
+5. **Statutory Precedent (California AB 2426):** Enacted on January 1, 2025, California AB 2426 established statutory precedent prohibiting storefronts from using terms like "Buy" or "Purchase" without conspicuous revocable license disclosures. This Petition addresses the operational phase of this deceptive practice: total product destruction when servers are shut down post-sale.
 
 ---
 
-## SECTION V. TECHNICAL LOOPHOLE PREVENTION & PLATFORM COMPLIANCE
+## SECTION IV. STOREFRONT LIFESPAN MANDATES & CPI INDEXING
 
-### 1. Middleware Neutralization
-Contracts entered into by publishers for third-party software, middleware, digital rights management (DRM), or anti-cheat integrations must include an explicit End-of-Life clause permitting the removal or bypass of such software upon server decommission.
+### 1. Point-of-Sale Disclosures
+Storefront operators and publishers must conspicuously label online-dependent titles as a **"Revocable Digital License"** prior to transaction, disclosing the declared Minimum Operational Lifespan (MOL) and dependencies on external authentication infrastructure.
 
-### 2. Active MOL Maintenance Standard
-Maintaining an active MOL requires the publisher to provide baseline technical compatibility updates, critical security patches, and reasonable server uptime. Maintaining empty, non-functional, or game-breaking server infrastructure ("maintenance mode abandonment") shall be classified as non-compliance.
+### 2. Guaranteed Minimum Operational Lifespan (MOL) Tiers
+* **Standard Premium Tier (36–120 Months):** Full-price commercial releases ($70+ MSRP) must commit to an MOL between 36 and 120 months, aligning with standard 5–7 year console hardware depreciation cycles.
+* **Short-Term Service License (STSL) (12–35 Months):** Titles with an MOL under 36 months are capped at a maximum $30.00 base retail MSRP to prevent disposable cash-grabs on transient live-service software.
 
-### 3. Platform API Interoperability
-Console platform holders and storefront operators shall provide standardized system APIs allowing developers to transition online-dependent software to peer-to-peer or offline modes without violating platform certification rules.
-
----
-
-## SECTION VI. INDEPENDENT DEVELOPER SAFE HARBOR
-
-To protect innovation and avoid burdening smaller studios:
-1. **Qualifying Criteria:** Independent developers (annual studio budget under $5M USD or self-funded entities) offering games without dedicated corporate server backends are exempt from formal MOL filings.
-2. **Community Default Clause:** If an independent developer ceases operations or can no longer maintain server costs, software binaries automatically transition to an open community license, waiving developer liability while legalizing fan-driven preservation.
+### 3. Annual BLS CPI-U Inflation Adjustment
+* The statutory $30.00 base MSRP cap for short MOL titles shall be indexed annually on January 1st to the Consumer Price Index for All Urban Consumers (CPI-U) published by the U.S. Bureau of Labor Statistics.
+* Adjusted thresholds shall be rounded to the nearest $0.50 increment to maintain clear, consumer-facing commercial price tiers.
 
 ---
 
-## SECTION VII. ARTIFICIAL INTELLIGENCE & FAIRNESS GUARDRAILS
+## SECTION V. MANDATORY SUNSET REQUIREMENTS & STATUTORY SAFE HARBOR
 
-1. **AI Disclosure & Live-Ops Integrity:** Interactive content generated by automated AI pipelines must be explicitly labeled at point of sale. AI-generated asset drops cannot be counted toward fulfilling a publisher's active MOL development obligations.
-2. **Prohibition on Algorithmic Exploitation:** Dynamic pricing, drop-rate manipulation, or matchmaking alterations driven by real-time behavioral profiling are classified as **Unfair and Deceptive Trade Practices**.
+### 1. Offline Functional Execution Patches
+Prior to decommissioning central authentication servers, a publisher must issue a final software update removing remote server dependencies, rendering single-player, story campaign, or local split-screen modes fully executable on local consumer hardware.
+
+### 2. Community Self-Hosting Server Binaries
+For multiplayer-centric titles where local execution is unfeasible, the publisher must release unencrypted dedicated server binaries, peer-to-peer networking protocols, or API documentation sufficient to allow consumer communities to host private instances at their own expense.
+
+### 3. Statutory Safe Harbor Immunity (Publisher Incentive)
+Publishers that fully comply with upfront MOL declarations and release functional offline patches or community server binaries upon commercial EOL shall receive **Statutory Safe Harbor Protection**. This grants full legal immunity against consumer class-action suits, administrative fines, or restitution orders arising from server decommissioning.
 
 ---
 
-## SECTION VIII. REGULATORY ENFORCEMENT & REMEDIES
+## SECTION VI. TECHNICAL COMPLIANCE & DEVELOPER SAFEGUARDS
 
-Failure to fulfill a declared MOL without delivering an offline patch or hosting tools constitutes a breach of statutory consumer protection law. Sanctions include:
-* **Automated Platform Refunds:** Automated refunds processed directly from the publisher’s escrowed storefront balances for purchases made within the unfulfilled MOL window.
-* **Loss of Safe Harbor:** Immediate revocation of legal immunity, exposing the publisher to private right-of-action litigation and regulatory fines proportional to net title revenue.
+* **DRM & Anti-Cheat Sunset Clauses:** Contracts for third-party DRM, anti-tamper, or anti-cheat software must include mandatory EOL sunset clauses permitting removal or community bypass upon official server shutdown without DMCA Section 1201 liability.
+* **Independent Developer Exemption:** Studios with annual operating budgets under $5,000,000 USD are exempt from formal MOL compliance filings, ensuring small creators face zero regulatory friction. In the event of studio dissolution, software binaries transition to an open community preservation default.
+* **AI & Live-Ops Guardrails:** Generative AI content pipelines integrated into live-ops titles must be disclosed at point of sale and cannot be used to artificially satisfy active development obligations under an active MOL.
+
+---
+
+## SECTION VII. ADMINISTRATIVE ENFORCEMENT & REMEDIES
+
+Failure to satisfy declared MOL commitments without providing statutory EOL sunset tools constitutes an unfair and deceptive trade practice under Section 5 of the FTC Act. Sanctions include:
+* **Automated Storefront Restitution:** Mandatory pro-rata refunds processed through digital storefront platforms from the publisher's escrowed accounts.
+* **Forfeiture of Safe Harbor:** Immediate revocation of statutory immunity, exposing non-compliant entities to state AG civil penalties and private class-action litigation.
 
 ---
 
 ## Contact & Policy Inquiries
-
-For media inquiries, legislative feedback, or research collaboration regarding this framework:
-* **Author:** Jason Benoit
+* **Author & Petitioner:** Jason Benoit
 * **Role:** Consumer Rights Advocate & Digital Media Analyst
-* **Email:** jbenoit.digitalpolicy@gmail.com
+* **Email:** jbenoit.digitalpolicy@gmail.com[Digital_Media_Lifespan_Framework_Executive_Summary.pdf](https://github.com/user-attachments/files/31089351/Digital_Media_Lifespan_Framework_Executive_Summary.pdf)
+[Digital_Media_Lifespan_Framework_Full_Whitepaper.pdf](https://github.com/user-attachments/files/31089344/Digital_Media_Lifespan_Framework_Full_Whitepaper.pdf)
