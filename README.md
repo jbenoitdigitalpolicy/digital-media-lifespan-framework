@@ -93,6 +93,27 @@ Failure to satisfy declared MOL commitments without providing statutory EOL suns
 
 ---
 
+## SECTION VIII. REGULATORY DOCKET & SUBMISSION RECORD
+
+The following formal regulatory petitions, evidentiary supplements, and stakeholder memos have been submitted to administrative agencies and advocacy organizations:
+
+| Target Authority / Organization | Filing Category | Statutory / Administrative Basis | Status / Record |
+| :--- | :--- | :--- | :--- |
+| **U.S. Federal Trade Commission (FTC)** | Petition for Rulemaking & Evidentiary Amendment | 16 CFR § 1.31; FTC Act § 18(a)(1)(B); Intersects 16 CFR Parts 238 & 425 | **Evidentiary Amendment Filed** (Awaiting Docket Assignment) |
+| **European Parliament & Commission** | Legislative Policy Submission | Committee on the Internal Market and Consumer Protection (IMCO) / DG JUST | **Submitted** (Legislative Docket Record) |
+| **State of New York (Office of the Attorney General)** | Consumer Protection Oversight Memo | N.Y. Exec. Law § 63(12) / Consumer Frauds Bureau | **Filed** (Agency Record) |
+| **State of California (Office of the Attorney General)** | Legislative Oversight & Precedent Expansion | California AB 2426 Follow-On / Consumer Protection Section | **Filed** (Agency Record) |
+| **Electronic Frontier Foundation (EFF)** | Independent Policy Submission | Digital Ownership & Consumer Rights Review | **Delivered** (Internal Staff Review) |
+| **Stop Killing Games Campaign** | Stakeholder Outreach & Alignment Note | Game Preservation & Anti-Destruction Scope | **Delivered** (Feedback Acknowledged) |
+
+---
+
+### Formal Filing Documents
+* 📄 **[Download Full Regulatory Whitepaper (PDF)](./Digital_Media_Lifespan_Framework_Full_Whitepaper.pdf)**
+* 📋 **[Download 1-Page Executive Summary (PDF)](./Digital_Media_Lifespan_Framework_Executive_Summary.pdf)**
+
+---
+  
 ## Contact & Policy Inquiries
 * **Author & Petitioner:** Jason Benoit
 * **Role:** Consumer Rights Advocate & Digital Media Analyst
