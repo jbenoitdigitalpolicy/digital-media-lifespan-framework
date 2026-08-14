@@ -1,3 +1,5 @@
+[Digital_Media_Lifespan_Framework_Executive_Summary.pdf](https://github.com/user-attachments/files/31089191/Digital_Media_Lifespan_Framework_Executive_Summary.pdf)
+[Digital_Media_Lifespan_Framework_Full_Whitepaper.pdf](https://github.com/user-attachments/files/31089190/Digital_Media_Lifespan_Framework_Full_Whitepaper.pdf)
 # MODEL LEGISLATIVE FRAMEWORK FOR CONSUMER INTERACTIVE ENTERTAINMENT & VIDEO GAME LIFESPAN GOVERNANCE
 
 **Author:** Jason Benoit  
