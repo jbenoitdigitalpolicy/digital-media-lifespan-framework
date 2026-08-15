@@ -117,5 +117,5 @@ The following formal regulatory petitions, evidentiary supplements, and stakehol
 ## Contact & Policy Inquiries
 * **Author & Petitioner:** Jason Benoit
 * **Role:** Consumer Rights Advocate & Digital Media Analyst
-* **Email:** jbenoit.digitalpolicy@gmail.com[Digital_Media_Lifespan_Framework_Executive_Summary.pdf](https://github.com/user-attachments/files/31089351/Digital_Media_Lifespan_Framework_Executive_Summary.pdf)
-[Digital_Media_Lifespan_Framework_Full_Whitepaper.pdf](https://github.com/user-attachments/files/31089344/Digital_Media_Lifespan_Framework_Full_Whitepaper.pdf)
+* **Email:** jbenoit.digitalpolicy@gmail.com
+
