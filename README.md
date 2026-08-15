@@ -109,8 +109,8 @@ The following formal regulatory petitions, evidentiary supplements, and stakehol
 ---
 
 ### Formal Filing Documents
-* 📄 **[Download Full Regulatory Whitepaper (PDF)](./Digital_Media_Lifespan_Framework_Full_Whitepaper.pdf)**
-* 📋 **[Download 1-Page Executive Summary (PDF)](./Digital_Media_Lifespan_Framework_Executive_Summary.pdf)**
+* 📄 **[Download Full Regulatory Whitepaper (PDF)](https://github.com/user-attachments/files/31089344/Digital_Media_Lifespan_Framework_Full_Whitepaper.pdf)**
+* 📋 **[Download 1-Page Executive Summary (PDF)](https://github.com/user-attachments/files/31089351/Digital_Media_Lifespan_Framework_Executive_Summary.pdf)**
 
 ---
   
